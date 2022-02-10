@@ -20,7 +20,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.3",
     "morgan": "^1.9.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "validator": "^12.2.0",
     "vue": "^2.6.11"
